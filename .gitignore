@@ -1,0 +1,12 @@
+
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/pyShop.iml
+.idea/rGraphicsSettings.xml
+.idea/rSettings.xml
+.idea/rpackages.xml
+.idea/vcs.xml
+db.sqlite3
+venv/
