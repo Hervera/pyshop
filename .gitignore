@@ -1,3 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
 .idea/.gitignore
 .idea/inspectionProfiles/
@@ -10,3 +14,4 @@
 .idea/vcs.xml
 db.sqlite3
 venv/
+
