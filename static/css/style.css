@@ -1,0 +1,16 @@
+.navbar-brand {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+h4 {
+  margin: 30px 0 10px
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.card-img-top {
+  max-height: 160px;
+}	
